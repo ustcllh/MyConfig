@@ -1,5 +1,5 @@
-" enable mouse in all mode
-set mouse=a
+" uncomment to enable mouse in all mode
+" set mouse=a
 
 " necessary for gnu screen & mouse
 set ttymouse=xterm2
