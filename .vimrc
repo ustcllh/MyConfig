@@ -15,3 +15,6 @@ set nu
 
 " set auto indent
 set autoindent
+
+" set highlight search
+set hlsearch
