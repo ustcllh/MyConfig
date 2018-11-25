@@ -15,6 +15,8 @@ set nu
 
 " set auto indent
 set autoindent
+set tabstop=2
+set softtabstop=0 noexpandtab
 
 " set highlight search
 set hlsearch
